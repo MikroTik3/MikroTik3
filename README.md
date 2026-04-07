@@ -24,7 +24,9 @@ Frontend Developer from Kiyv 🧊
 
 ## ☄️ Contact
 
-- :airplane: &nbsp;**[telegram](https://t.me/d16ddd348)**
-- :comet: &nbsp;**[github](https://github.com/MikroTik3)**
+- :bird: &nbsp;**[Instagram](https://www.instagram.com/artur.docenko)**
+- :airplane: &nbsp;**[Telegram](https://t.me/d16ddd348)**
+- :robot: &nbsp;**[LinkedIn](https://www.linkedin.com/in/artur-docenko-0a3a722a1)**
+- :comet: &nbsp;**[Github](https://github.com/MikroTik2)**
 
 <br>
