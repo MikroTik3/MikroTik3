@@ -17,9 +17,6 @@ Frontend Developer from Kiyv 🧊
 - ### [🛡️ nestjs-cloudflare-turnstile](https://github.com/MikroTik3/nestjs-cloudflare-turnstile)  
   simple NestJS module to verify Cloudflare Turnstile CAPTCHA tokens with optional <code>Guard</code> support
 
-- ### [⌛ react-hook-debounce](https://github.com/MikroTik3/react-hook-debounce)  
-  lightweight React hook for debouncing values with customizable delay  
-
 <br>
 
 ## ☄️ Contact
