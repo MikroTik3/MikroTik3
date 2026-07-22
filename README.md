@@ -14,6 +14,9 @@ Frontend Developer from Kiyv 🧊
 - ### [🏦 nestjs-monobank](https://github.com/MikroTik3/nestjs-monobank)  
   full-featured Monobank acquiring API for NestJS, including invoice creation, cancellation, and webhook signature verification
 
+- ### [📦 nestjs-novaposhta](https://github.com/MikroTik3/nestjs-novaposhta)  
+  full-featured Nova Poshta API integration for NestJS, including shipment creation, tracking, address lookup, and warehouse management.
+
 - ### [🛡️ nestjs-cloudflare-turnstile](https://github.com/MikroTik3/nestjs-cloudflare-turnstile)  
   simple NestJS module to verify Cloudflare Turnstile CAPTCHA tokens with optional <code>Guard</code> support
 
