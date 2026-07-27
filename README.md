@@ -14,6 +14,10 @@ Frontend Developer from Kiyv 🧊
 - ### [🏦 nestjs-monobank](https://github.com/MikroTik3/nestjs-monobank)  
   full-featured Monobank acquiring API for NestJS, including invoice creation, cancellation, and webhook signature verification
 
+- ### [☁️ nestjs-cloudinary](https://github.com/MikroTik3/nestjs-cloudinary)  
+  full-featured Cloudinary integration for NestJS, including file uploads, asset management, URL generation, transformations, and media administration
+
+
 - ### [📦 nestjs-novaposhta](https://github.com/MikroTik3/nestjs-novaposhta)  
   full-featured Nova Poshta API integration for NestJS, including shipment creation, tracking, address lookup, and warehouse management.
 
